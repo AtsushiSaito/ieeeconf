@@ -7,4 +7,4 @@ root.dvi: root.tex
 	latex root.tex
 
 clean:
-	rm -f *.aux *.log *.dvi *.bbl *.blg *.pdf *.ilg *.idx *.toc *.ind *.fls
+	rm -f *.aux *.log *.dvi *.bbl *.blg *.ilg *.idx *.toc *.ind *.fls
